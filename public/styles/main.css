@@ -1,0 +1,16 @@
+
+body {
+	padding: 100px;
+	text-align: center;
+}
+
+h1 {
+	margin-bottom: 20px;
+}
+
+.loadBox {
+	background-color: blue;
+	width: 25px;
+	height: 25px;
+	display: inline-block;
+}
